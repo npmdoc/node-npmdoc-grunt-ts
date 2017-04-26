@@ -1,6 +1,6 @@
 # npmdoc-grunt-ts
 
-#### api documentation for  [grunt-ts (v5.5.1)](https://github.com/TypeStrong/grunt-ts)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-ts.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-ts) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-ts.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-ts)
+#### basic api documentation for  [grunt-ts (v5.5.1)](https://github.com/TypeStrong/grunt-ts)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-ts.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-ts) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-ts.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-ts)
 
 #### Compile and manage your TypeScript project
 
@@ -118,7 +118,8 @@
     "scripts": {
         "test": "grunt test"
     },
-    "version": "5.5.1"
+    "version": "5.5.1",
+    "bin": {}
 }
 ```
 
